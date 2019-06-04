@@ -1,6 +1,6 @@
 # hail-hydra
 {  
-  "server": "128.199.65.122",  
+  "server": "209.97.168.47",  
   "port_password": {  
     "8080": "zxc1996",  
     "8081": "zxc1996"  
